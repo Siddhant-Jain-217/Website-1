@@ -1,0 +1,28 @@
+h1{
+    font-family: sans-serif;
+    color: yellow;
+}
+body{
+    text-align: center;
+    background: #5433FF;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #A5FECB, #20BDFF, #5433FF);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #A5FECB, #20BDFF, #5433FF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+p {
+    font-family: 'Girossol' cursive;
+    font-size: 25px;
+}
+div{
+    margin-top: 20px;
+}
+.image-section {
+    display: flex;
+    justify-content: center;
+}
+.section-style {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: white;
+}
+
